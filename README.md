@@ -21,7 +21,10 @@ Este projeto tem como foco a recolha, limpeza, tratamento e visualização de da
 3. *Alternativa:* Pode visualizar o Dashboard completo através do ficheiro `.pdf` exportado ou nas imagens de demonstração abaixo.
 
 ## 📸 Demonstração
-*(Coloque aqui uma captura de ecrã do seu Dashboard pronto no Power BI. Esta é a montra do seu projeto!)*
+| Visão Geral | Detalhe de Filtros |
+|:---:|:---:|
+| ![Visual 1](./demonstracao1_dashboard.png) | ![Visual 2](./demonstracao2_dashboard.png) |
+| ![Visual 3](./demonstracao3_dashboard.png) | ![Visual 4](./demonstracao4_dashboard.png) |
 
 ---
 ## 👩‍💻 Autora
